@@ -20,6 +20,6 @@ $result = 7*9;
 echo "7x9 = $result <br>";
 $result = 7*10;
 echo "7x10 = $result <br>";
-
+echo "Obrigado pela atenção"
 
 
