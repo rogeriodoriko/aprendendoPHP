@@ -11,7 +11,7 @@ try{
        echo "ta funcionando";
    }
   /* $sql = "SELECT nome From usuario";
-
+ 
    $query = $conn->prepare($sql);
    $query->execute();
  */
